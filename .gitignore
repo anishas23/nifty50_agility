@@ -1,0 +1,4 @@
+data/pdfs/
+models/
+__pycache__/
+*.pyc
