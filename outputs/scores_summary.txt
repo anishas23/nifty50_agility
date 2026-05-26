@@ -1,0 +1,79 @@
+======================================================================
+AGILITY SCORES — NIFTY 50 COMPANIES (1 Year MD&A)
+Methodology: Colak & Mai (2026) — TF-IDF weighted dictionary scores
+======================================================================
+
+Number of companies analysed : 47
+Threat dictionary size       : 216 words
+Response dictionary size     : 317 words
+
+RANKING (most agile → least agile):
+----------------------------------------------------------------------
+Rank   Company                              Agility   Response   Threat
+----------------------------------------------------------------------
+1      KOTAKBANK_2024                       96.3116     10.833    0.113
+2      COALINDIA_2024                       13.2949      2.991    0.225
+3      HDFCLIFE_2024                        10.3611     10.796    1.042
+4      BEL_2024                              3.6891     54.962   14.899
+5      HINDUNILVR_2024                       3.2450     33.015   10.174
+6      TCS_2024                              2.8844     67.858   23.526
+7      LT_2024                               2.5621     16.337    6.376
+8      TITAN_2024                            2.4490     41.723   17.037
+9      WIPRO_2024                            2.4138    211.559   87.645
+10     TATACONSUM_2024                       2.0043    113.607   56.681
+11     NTPC_2024                             1.9805    255.929  129.221
+12     TATASTEEL_2024                        1.8761     24.355   12.982
+13     INFOSYS_2024                          1.7629      7.326    4.156
+14     SBILIFE_2024                          1.7546     75.565   43.067
+15     MARUTI_2024                           1.6668     61.950   37.167
+16     ICICIBANK_2024                        1.6138      5.610    3.476
+17     BAJFINANCE_2024                       1.5999    100.791   63.000
+18     GRASIM_2024                           1.5420    241.770  156.792
+19     BRITANNIA_2024                        1.4924     75.763   50.766
+20     TATAMOTORS_2024                       1.3775    334.716  242.989
+21     ADANIENT_2024                         1.3403    305.632  228.033
+22     APOLLOHOSP_2024                       1.3167     11.067    8.405
+23     POWERGRID_2024                        1.3021     88.740   68.150
+24     SBIN_2024                             1.1946     78.207   65.467
+25     DIVISLAB_2024                         1.1828     71.224   60.216
+26     NESTLEIND_2024                        1.1562     56.293   48.690
+27     ADANIPORTS_2024                       1.1561     33.173   28.695
+28     CIPLA_2024                            1.0539    209.827  199.095
+29     TECHM_2024                            0.9912    536.408  541.177
+30     MM_2024                               0.9678     89.353   92.328
+31     BAJAJFINSV_2024                       0.9664     35.789   37.034
+32     DRREDDY_2024                          0.9439     80.611   85.398
+33     JSWSTEEL_2024                         0.9267     85.638   92.409
+34     ITC_2024                              0.8978     21.232   23.649
+35     SUNPHARMA_2024                        0.7738     34.626   44.746
+36     HEROMOTOCO_2024                       0.7632    105.472  138.193
+37     ASIANPAINT_2024                       0.7514    181.771  241.911
+38     RELIANCE_2024                         0.6447     73.329  113.737
+39     BPCL_2024                             0.5978    162.906  272.521
+40     INDUSINDBK_2024                       0.3056     13.532   44.285
+41     ULTRACEMCO_2024                       0.2928      6.068   20.725
+42     HINDALCO_2024                         0.2059     13.972   67.860
+43     SHRIRAMFIN_2024                       0.1724      3.491   20.250
+44     AXISBANK_2024                         0.0000      4.960    0.000
+45     BHARTIARTL_2024                       0.0000      4.535    0.000
+46     ONGC_2024                             0.0000      0.000    0.000
+47     TRENT_2024                            0.0000      0.000    0.000
+----------------------------------------------------------------------
+
+DESCRIPTIVE STATISTICS:
+  Mean agility  : 3.7401
+  Median agility: 1.1946
+  Std agility   : 13.9919
+  Min agility   : 0.0000
+  Max agility   : 96.3116
+
+INTERPRETATION:
+  Agility Score = Response Score / Threat Score
+  Higher score = firm responds more per unit of threat = MORE AGILE
+  A score > 1 means response language exceeds threat language
+
+NOTES:
+  - Scores based on 1 year of MD&A data (paper uses 3-year moving average)
+  - Small corpus may affect word2vec dictionary quality
+  - Scores are comparable ACROSS companies (cross-sectional)
+======================================================================

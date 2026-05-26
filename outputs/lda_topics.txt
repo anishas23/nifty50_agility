@@ -1,0 +1,32 @@
+LDA Topics — 15 topics, coherence=0.3436
+======================================================================
+Topic 00
+  client (0.006)  |  programme (0.006)  |  emission (0.003)  |  assessment (0.003)  |  waste (0.003)  |  plant (0.003)  |  environmental (0.003)  |  integration (0.003)  |  steel (0.003)  |  biodiversity (0.002)  |  enterprise (0.002)  |  environmental_social_governance (0.002)
+Topic 01
+  corporation (0.009)  |  plant (0.005)  |  fuel (0.004)  |  gas (0.004)  |  coal (0.003)  |  implementation (0.003)  |  station (0.003)  |  scheme (0.003)  |  independent_director (0.003)  |  supply (0.003)  |  pipeline (0.003)  |  case (0.003)
+Topic 02
+  financial_ended_march (0.007)  |  nutrition (0.007)  |  food (0.006)  |  factory (0.006)  |  home (0.005)  |  programme (0.005)  |  distributor (0.004)  |  audit_committee (0.004)  |  farmer (0.004)  |  voting (0.003)  |  today (0.003)  |  secretarial_auditor (0.003)
+Topic 03
+  port (0.033)  |  cement (0.017)  |  logistics (0.010)  |  statutory_report_financial_statement (0.009)  |  cargo (0.006)  |  record (0.006)  |  industrial (0.006)  |  nation (0.005)  |  volume (0.005)  |  handling (0.005)  |  ever (0.005)  |  world_largest (0.005)
+Topic 04
+  programme (0.000)  |  production (0.000)  |  plant (0.000)  |  independent_director (0.000)  |  vehicle (0.000)  |  waste (0.000)  |  corporation (0.000)  |  village (0.000)  |  integration (0.000)  |  assessment (0.000)  |  note (0.000)  |  emission (0.000)
+Topic 05
+  programme (0.005)  |  campaign (0.003)  |  premium (0.003)  |  retail (0.003)  |  launch (0.003)  |  crore (0.003)  |  store (0.003)  |  home (0.002)  |  food (0.002)  |  introduced (0.002)  |  plant (0.002)  |  packaging (0.002)
+Topic 06
+  branch (0.013)  |  loan (0.009)  |  banking (0.008)  |  credit (0.007)  |  programme (0.006)  |  fund (0.005)  |  scheme (0.004)  |  official (0.004)  |  rbi (0.004)  |  limit (0.004)  |  deposit (0.003)  |  market_share (0.003)
+Topic 07
+  integrated_reporting (0.008)  |  forward_looking_statement (0.008)  |  advancing (0.007)  |  financial_non (0.006)  |  outlook (0.005)  |  risk_framework (0.005)  |  long_term_value_creation (0.005)  |  life_insurance (0.005)  |  materiality (0.005)  |  regarding (0.004)  |  read (0.003)  |  alignment (0.003)
+Topic 08
+  independent_director (0.005)  |  crore (0.004)  |  genai (0.004)  |  yes (0.003)  |  manufacturing_facility (0.003)  |  health_safety (0.003)  |  respective (0.003)  |  product_service (0.003)  |  enterprise (0.003)  |  appointment (0.003)  |  plant (0.002)  |  case (0.002)
+Topic 09
+  programme (0.000)  |  plant (0.000)  |  independent_director (0.000)  |  assessment (0.000)  |  retail (0.000)  |  production (0.000)  |  waste (0.000)  |  reliance (0.000)  |  structured (0.000)  |  equipment (0.000)  |  vehicle (0.000)  |  integration (0.000)
+Topic 10
+  vehicle (0.018)  |  programme (0.007)  |  car (0.007)  |  statutory_report_financial_statement (0.005)  |  production (0.004)  |  component (0.004)  |  defence (0.004)  |  commercial_vehicle (0.003)  |  occupational_health_safety (0.003)  |  road_safety (0.003)  |  export (0.003)  |  introduced (0.003)
+Topic 11
+  independent_director (0.011)  |  audit_committee (0.005)  |  patient (0.004)  |  programme (0.004)  |  executive_director (0.003)  |  crore (0.003)  |  remuneration (0.003)  |  plant (0.003)  |  board_committee (0.003)  |  dividend (0.003)  |  appointment (0.002)  |  non_executive_director (0.002)
+Topic 12
+  client (0.008)  |  employee_worker (0.008)  |  waste (0.006)  |  health_safety (0.005)  |  odisha (0.005)  |  complaint (0.005)  |  bihar (0.005)  |  jharkhand (0.005)  |  identified (0.005)  |  incident (0.005)  |  agency (0.005)  |  reviewed (0.005)
+Topic 13
+  programme (0.005)  |  corporate_overview (0.004)  |  loan (0.004)  |  insurance (0.004)  |  credit (0.004)  |  rbi (0.003)  |  fund (0.003)  |  financial_service (0.003)  |  september (0.003)  |  govt (0.003)  |  independent_director (0.003)  |  audit_committee (0.003)
+Topic 14
+  patient (0.005)  |  airport (0.005)  |  assessment (0.004)  |  site (0.004)  |  biodiversity (0.003)  |  implementation (0.003)  |  waste (0.003)  |  programme (0.003)  |  healthcare (0.003)  |  brsr (0.002)  |  treatment (0.002)  |  construction (0.002)
